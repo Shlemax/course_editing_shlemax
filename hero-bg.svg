@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1f4d"/><stop offset="1" stop-color="#1e6bff"/></linearGradient></defs>
+<rect width="1600" height="800" fill="url(#g)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="2"><circle cx="1350" cy="170" r="260"/><circle cx="1350" cy="170" r="170"/><circle cx="1350" cy="170" r="80"/></g>
+<g opacity=".9">
+<rect x="0" y="600" width="1600" height="200" fill="#06142f" fill-opacity=".55"/>
+<rect x="60" y="630" width="360" height="34" rx="6" fill="#2bc4ff" fill-opacity=".55"/>
+<rect x="430" y="630" width="240" height="34" rx="6" fill="#1e6bff" fill-opacity=".6"/>
+<rect x="680" y="630" width="420" height="34" rx="6" fill="#2bc4ff" fill-opacity=".35"/>
+<rect x="1110" y="630" width="300" height="34" rx="6" fill="#1e6bff" fill-opacity=".45"/>
+<rect x="160" y="676" width="300" height="34" rx="6" fill="#7fd8ff" fill-opacity=".45"/>
+<rect x="470" y="676" width="380" height="34" rx="6" fill="#7fd8ff" fill-opacity=".3"/>
+<rect x="860" y="676" width="460" height="34" rx="6" fill="#7fd8ff" fill-opacity=".4"/>
+<rect x="60" y="722" width="1300" height="22" rx="6" fill="#fff" fill-opacity=".08"/>
+</g></svg>
